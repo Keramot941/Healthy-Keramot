@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.top{
+display: flex;
+align-items: center;
+justify-content: space-between;
+background: url(/images/shapes/Frame.png);
+}
+.txt{
+    height: 175px;
+    margin: 42px;
+}
+h5{
+    height: 50px;
+    padding: 75px;
+    width: 100%;
+    font-size: 850px;
+}
+.skip{
+    color: rgb(238, 155, 0);
+}

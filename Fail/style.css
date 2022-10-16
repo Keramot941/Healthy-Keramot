@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.navbar{
+    display: flex;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #00B7ff;
+    overflow: hidden;
+   
+}
+h3{
+    font-size: 25px;
+}
+.logo{
+    color: #f58941;
+    margin-left: 15px;
+    font-family: poppins;
+    
+
+}
+#hlt{
+    color: black;
+}
+
+.menu ul{
+    list-style: none;
+    position: relative;
+    display: flex;
+    align-items: right;
+    margin-left: 50px;
+}
+li{
+    padding: 5px;
+    margin-right: 10px;
+    
+    border-radius: 7px;
+    background: #427ed8;
+    margin-top: 8px;
+}
+a{
+    text-decoration: none;
+    color: rgb(236, 225, 225);
+}
